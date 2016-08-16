@@ -19,19 +19,9 @@ mirnascore-alltargets.csv
 Scored mirna considering all targets
 
 ==================================
-mirnascore-alltargets.tif
-==================================
-Plot with the 30 top scored mirna considering all targets
-
-==================================
 mirnascore-mirtarbase.csv
 ==================================
 Scored mirna considering mirtarbase targets
-
-==================================
-mirnascore-mirtarbase.tif
-==================================
-Plot with the 30 top scored mirna considering mirtarbase targets
 
 ==================================
 processed-pathways
