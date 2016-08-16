@@ -1,0 +1,119 @@
+NAME	ID	TYPE
+MAPK1	5594	gene
+MAP2K1	5604	gene
+RAF1	5894	gene
+RRAS2	22800	gene
+GRB2	2885	gene
+hsa-mir-3678		intergenicMirna
+SOS1	6654	gene
+AKT3	10000	gene
+PIK3R5	23533	gene
+SHC2	25759	gene
+CSF1	1435	gene
+CSF1R	1436	gene
+GAB1...	2549	gene
+PTPN11	5781	gene
+TIAM1	7074	gene
+RAC1	5879	gene
+RALGDS	5900	gene
+RGL1	23179	gene
+RGL2	5863	gene
+RALA	5898	gene
+PLD1...	5337	gene
+PLCE1	51196	gene
+PRKCA	5578	gene
+hsa-mir-634		intragenicMirna
+ABL1	25	gene
+RIN1	9610	gene
+BAD	572	gene
+BCL2L1	598	gene
+CHUK	1147	gene
+NFKB1	4790	gene
+FOXO4	4303	gene
+FASLG	356	gene
+MAPK8	5599	gene
+RALBP1	10928	gene
+CDC42	998	gene
+PLA2G4B	100137049	gene
+ELK1	2002	gene
+ETS1	2113	gene
+hsa-mir-6090		intragenicMirna
+RAB5A	5868	gene
+RASGRP1	10125	gene
+RASGRF1	5923	gene
+RASA4B...	100271927	gene
+NF1	4763	gene
+hsa-mir-4733		intergenicMirna
+RHOA	387	gene
+MLLT4	4301	gene
+RASSF5	83593	gene
+RASSF1	11186	gene
+STK4	6789	gene
+RAPGEF5	9771	gene
+RAP1A	5906	gene
+HRAS	3265	gene
+MRAS	22808	gene
+RRAS	6237	gene
+ARF6	382	gene
+GRIN1	2902	gene
+CALML6	163688	gene
+GNB5	10681	gene
+HTR7	3363	gene
+PLCG1	5335	gene
+hsa-mir-6871		intragenicMirna
+ZAP70	7535	gene
+LAT	27040	gene
+PAK4...	10298	gene
+EXOC2	55770	gene
+TBK1	29110	gene
+REL	5966	gene
+BRAP	8315	gene
+KSR2...	283455	gene
+PRKACA	5566	gene
+SHOC2	8036	gene
+hsa-mir-548e		intragenicMirna
+AR	367	tf
+YBX1	4904	tf
+FOXP3	50943	tf
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+GATA1	2623	tf
+GATA2	2624	tf
+GATA3	2625	tf
+ESR1	2099	tf
+FOXA1	3169	tf
+CREB1	1385	tf
+HIF1A	3091	tf
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+TP53	7157	tf
+STAT1	6772	tf
+TP63	8626	tf
+hsa-mir-944		intragenicMirna
+EGR1	1958	tf
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+NFKB1	4790	tf
+E2F4	1874	tf
+WT1	7490	tf
+PRDM14	63978	tf
+TFAP2C	7022	tf
+ONECUT1	3175	tf
+REST	5978	tf
+NANOG	79923	tf
+E2F1	1869	tf
+CEBPB	1051	tf
+SP1	6667	tf
+RBPJ	3516	tf
+TAL1	6886	tf
+NR1I2	8856	tf
+POU5F1	5460	tf
+SOX2	6657	tf
+YY1	7528	tf
+hsa-mir-6764		intragenicMirna
+SP3	6670	tf
+AHR	196	tf

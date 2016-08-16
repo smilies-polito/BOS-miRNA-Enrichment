@@ -1,0 +1,9 @@
+{"total_rows":5943821,"offset":2212176,"rows":[
+{"id":"hsa-mir-338:100137049","key":["hsa-mir-338","mirtarbase"],"value":"hsa-miR-338-3p"},
+{"id":"hsa-mir-338:10472","key":["hsa-mir-338","mirtarbase"],"value":"hsa-miR-338-3p"},
+{"id":"hsa-mir-338:153090","key":["hsa-mir-338","mirtarbase"],"value":"hsa-miR-338-3p"},
+{"id":"hsa-mir-338:4035","key":["hsa-mir-338","mirtarbase"],"value":"hsa-miR-338-5p"},
+{"id":"hsa-mir-338:4130","key":["hsa-mir-338","mirtarbase"],"value":"hsa-miR-338-3p"},
+{"id":"hsa-mir-338:4857","key":["hsa-mir-338","mirtarbase"],"value":"hsa-miR-338-3p"},
+{"id":"hsa-mir-338:55585","key":["hsa-mir-338","mirtarbase"],"value":"hsa-miR-338-3p"}
+]}

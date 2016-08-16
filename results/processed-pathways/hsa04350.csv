@@ -1,0 +1,105 @@
+NAME	ID	TYPE
+LTBP1	4052	gene
+THBS1	7057	gene
+CUL1	8454	gene
+RBX1	9978	gene
+SMAD4	4089	gene
+ACVR2A	92	gene
+ACVR1C	130399	gene
+SMAD2	4087	gene
+NODAL	4838	gene
+SMAD6	4091	gene
+PITX2	5308	gene
+hsa-mir-297		intergenicMirna
+SP1	6667	gene
+CREBBP	1387	gene
+CDKN2B	1030	gene
+MYC	4609	gene
+hsa-mir-1204		intergenicMirna
+TFDP1	7027	gene
+E2F4	1874	gene
+RBL1	5933	gene
+ID1	3397	gene
+hsa-mir-3193		intergenicMirna
+ACVR1	90	gene
+INHBA	3624	gene
+FST	10468	gene
+LEFTY1	10637	gene
+RPS6KB1	6198	gene
+PPP2CA	5515	gene
+hsa-mir-3661		intragenicMirna
+ROCK1	6093	gene
+RHOA	387	gene
+ZFYVE9	9372	gene
+SKP1	6500	gene
+MAPK1	5594	gene
+SMURF1...	57154	gene
+TGFBR2	7048	gene
+TGFBR1	7046	gene
+TGFB1	7040	gene
+DCN	1634	gene
+TNF	7124	gene
+IFNG	3458	gene
+AMHR2	269	gene
+BMPR1A	657	gene
+GDF7	151449	gene
+NOG	9241	gene
+MINOS1-NBL1	100532736	gene
+SMAD1	4086	gene
+CHRD	8646	gene
+BAMBI	25805	gene
+TGIF2...	60436	gene
+AR	367	tf
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+SP1	6667	tf
+SP3	6670	tf
+ESR1	2099	tf
+GATA2	2624	tf
+YBX1	4904	tf
+FOXP3	50943	tf
+RELA	5970	tf
+TP73	7161	tf
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+PRDM14	63978	tf
+GATA1	2623	tf
+GATA3	2625	tf
+FOXA1	3169	tf
+POU5F1	5460	tf
+SOX2	6657	tf
+NANOG	79923	tf
+E2F4	1874	tf
+CREB1	1385	tf
+ATF2	1386	tf
+hsa-mir-933		intragenicMirna
+JUN	3725	tf
+NFKB1	4790	tf
+REL	5966	tf
+HSF1	3297	tf
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+TFAP2C	7022	tf
+E2F1	1869	tf
+GFI1	2672	tf
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+NME2	4831	tf
+TCF7L2	6934	tf
+TP53	7157	tf
+GFI1B	8328	tf
+E2F7	144455	tf
+SRF	6722	tf
+TFAP2A	7020	tf
+VDR	7421	tf
+YY1	7528	tf
+hsa-mir-6764		intragenicMirna
+ESR2	2100	tf
+CEBPZ	10153	tf
+NFAT5	10725	tf
+hsa-mir-1538		intergenicMirna
+KRT3	3850	tf
+LRRFIP1	9208	tf
+ONECUT1	3175	tf

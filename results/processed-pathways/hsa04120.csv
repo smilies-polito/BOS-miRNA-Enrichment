@@ -1,0 +1,154 @@
+NAME	ID	TYPE
+UBA2	10054	gene
+SAE1	10055	gene
+TCEB1	6921	gene
+TCEB2	6923	gene
+RBX1	9978	gene
+FBXW11	23291	gene
+RHOBTB2	23221	gene
+ERCC8	1161	gene
+SOCS1	8651	gene
+VHL	7428	gene
+HERC4	26091	gene
+HERC3	8916	gene
+UBE2W	55284	gene
+UBE2F	140739	gene
+UBA3	9039	gene
+CDC26	246184	gene
+ANAPC10	10393	gene
+CDC23	8697	gene
+CDC16	8881	gene
+hsa-mir-548ar		intragenicMirna
+hsa-mir-4502		intergenicMirna
+ANAPC7	51434	gene
+ANAPC5	51433	gene
+ANAPC4	29945	gene
+CDC27	996	gene
+ANAPC1	64682	gene
+hsa-mir-4771-2		intragenicMirna
+FZR1	51343	gene
+CDC20	991	gene
+ANAPC2	29882	gene
+ANAPC11	51529	gene
+FBXW8	26259	gene
+CUL3	8452	gene
+CUL2	8453	gene
+hsa-mir-3611		intragenicMirna
+SKP1	6500	gene
+CUL1	8454	gene
+CUL7	9820	gene
+CUL5	8065	gene
+RNF7	9616	gene
+DDB1	1642	gene
+CUL4B	8450	gene
+TRIM37	4591	gene
+TRIM32	22954	gene
+MID1	4281	gene
+FANCL	55120	gene
+BRCA1	672	gene
+MGRN1	23295	gene
+hsa-mir-6769a		intragenicMirna
+AIRE	326	gene
+NHLRC1	378884	gene
+SYVN1	84447	gene
+hsa-mir-6751		intragenicMirna
+PIAS3	10401	gene
+hsa-mir-6736		intragenicMirna
+BIRC8	112401	gene
+RCHY1	25898	gene
+RFWD2	64326	gene
+MAP3K1	4214	gene
+TRAF6	7189	gene
+PML	5371	gene
+SIAH1	6477	gene
+PARK2	5071	gene
+CBLC	23624	gene
+MDM2	4193	gene
+UBOX5	22888	gene
+PRPF19	27339	gene
+UBE3A	7337	gene
+UBE2U	148581	gene
+UBE2E3	10477	gene
+UBE2NL	389898	gene
+WWP1	11059	gene
+SMURF1...	57154	gene
+UBE3C	9690	gene
+UBE2J1	51465	gene
+UBE3B	89910	gene
+UBE2S	27338	gene
+UBE2C	11065	gene
+UBE2A	7319	gene
+ITCH	83737	gene
+hsa-mir-644a		intragenicMirna
+UBE2K	3093	gene
+UBE2J2	118424	gene
+UBE2L6	9246	gene
+UBE2L3	7332	gene
+UBE2G2	7327	gene
+UBE2G1	7326	gene
+UBA6	55236	gene
+PPIL2	23759	gene
+HERC2	8924	gene
+UBE2R2	54926	gene
+STUB1	10273	gene
+HERC1	8925	gene
+WWP2	11060	gene
+hsa-mir-140		intragenicMirna
+UBE4B	10277	gene
+UBR5	51366	gene
+TRIP12	9320	gene
+UBE4A	9354	gene
+HUWE1	10075	gene
+hsa-let-7f-2		intragenicMirna
+hsa-mir-98		intragenicMirna
+UBE2Z	65264	gene
+BIRC6	57448	gene
+hsa-mir-558		intragenicMirna
+NEDD4L	23327	gene
+UBE2QL1...	134111	gene
+UBE2O	63893	gene
+UBE2M	9040	gene
+UBE2I	7329	gene
+UBE2H	7328	gene
+UBE2B	7320	gene
+ANAPC13	25847	gene
+hsa-mir-4788		intergenicMirna
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+AR	367	tf
+CREB1	1385	tf
+E2F4	1874	tf
+GATA1	2623	tf
+GATA2	2624	tf
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+YBX1	4904	tf
+FOXP3	50943	tf
+TFAP2C	7022	tf
+ESR1	2099	tf
+GATA3	2625	tf
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+YY1	7528	tf
+hsa-mir-6764		intragenicMirna
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+SOX2	6657	tf
+PRDM14	63978	tf
+TP53	7157	tf
+FOXA1	3169	tf
+TP73	7161	tf
+NANOG	79923	tf
+MYCN	4613	tf
+HIF1A	3091	tf
+STAT2	6773	tf
+REST	5978	tf
+E2F1	1869	tf
+E2F2	1870	tf
+E2F3	1871	tf
+E2F5	1875	tf
+E2F6	1876	tf
+NFKB1	4790	tf
+TAL1	6886	tf

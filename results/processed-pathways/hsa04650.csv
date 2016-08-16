@@ -1,0 +1,136 @@
+NAME	ID	TYPE
+102723407	102723407	gene
+NFATC1	4772	gene
+PPP3CA	5530	gene
+hsa-mir-1255a		intragenicMirna
+hsa-mir-8066		intragenicMirna
+FYN	2534	gene
+TNFSF10	8743	gene
+IFNGR1	3459	gene
+PLCG1	5335	gene
+hsa-mir-6871		intragenicMirna
+LAT	27040	gene
+PRF1	5551	gene
+HLA-E	3133	gene
+IFNG	3458	gene
+CSF2	1437	gene
+TNF	7124	gene
+PRKCA	5578	gene
+hsa-mir-634		intragenicMirna
+SH3BP2	6452	gene
+PTK2B	2185	gene
+hsa-mir-6842		intragenicMirna
+LCP2	3937	gene
+SYK	6850	gene
+ZAP70	7535	gene
+LCK	3932	gene
+SH2D1B	117157	gene
+SH2D1A	4068	gene
+HCST	10870	gene
+CD247	919	gene
+FCER1G	2207	gene
+TYROBP	7305	gene
+PTPN11	5781	gene
+PTPN6	5777	gene
+IFNA1	3439	gene
+BID	637	gene
+hsa-mir-3198-1		intragenicMirna
+CASP3	836	gene
+GZMB	3002	gene
+FAS	355	gene
+hsa-mir-4679-2		intergenicMirna
+hsa-mir-4679-1		intergenicMirna
+TNFRSF10D	8793	gene
+CD48	962	gene
+ULBP3	79465	gene
+MICB	4277	gene
+MICA	100507436	gene
+ICAM1	3383	gene
+HLA-C	3107	gene
+HLA-B	3106	gene
+hsa-mir-6891		intragenicMirna
+HLA-G	3135	gene
+HLA-A	3105	gene
+PIK3R5	23533	gene
+MAPK1	5594	gene
+MAP2K1	5604	gene
+ARAF	369	gene
+HRAS	3265	gene
+SOS1	6654	gene
+GRB2	2885	gene
+hsa-mir-3678		intergenicMirna
+SHC2	25759	gene
+PAK1	5058	gene
+RAC1	5879	gene
+VAV3...	10451	gene
+FASLG	356	gene
+KLRD1	3824	gene
+IFNAR1	3454	gene
+CD244	51744	gene
+KLRC4-KLRK1...	100528032	gene
+NCR3	259197	gene
+NCR1	9437	gene
+FCGR3A	2214	gene
+NCR2	9436	gene
+KLRC2	3822	gene
+KIR2DS2	100132285	gene
+ITGB2	3689	gene
+ITGAL	3683	gene
+hsa-mir-4518		intragenicMirna
+KLRC1	3821	gene
+KIR2DL1	3802	gene
+KIR3DL2	3812	gene
+KIR3DL1	3811	gene
+RAET1E	135250	gene
+GATA2	2624	tf
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+NFKB1	4790	tf
+GATA1	2623	tf
+AR	367	tf
+YBX1	4904	tf
+FOXP3	50943	tf
+PRDM14	63978	tf
+REST	5978	tf
+TAL1	6886	tf
+CREB1	1385	tf
+ONECUT1	3175	tf
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+RFX5	5993	tf
+STAT1	6772	tf
+HIF1A	3091	tf
+IRF1	3659	tf
+E2F1	1869	tf
+TP53	7157	tf
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+NFATC1	4772	tf
+REL	5966	tf
+RELA	5970	tf
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+HNF1A	6927	tf
+TP73	7161	tf
+ATF2	1386	tf
+hsa-mir-933		intragenicMirna
+GATA3	2625	tf
+JUN	3725	tf
+CEBPB	1051	tf
+SP1	6667	tf
+TFAP2C	7022	tf
+E2F4	1874	tf
+SRF	6722	tf
+HSF1	3297	tf
+FOXA1	3169	tf
+NR1I2	8856	tf
+AHR	196	tf
+ESR1	2099	tf
+NFAT5	10725	tf
+hsa-mir-1538		intergenicMirna
+KRT3	3850	tf
+SP3	6670	tf
+LRRFIP1	9208	tf
+CREM	1390	tf

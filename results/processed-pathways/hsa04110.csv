@@ -1,0 +1,216 @@
+NAME	ID	TYPE
+CDKN2A	1029	gene
+FZR1	51343	gene
+MCM2	4171	gene
+ORC6	23594	gene
+ANAPC10	10393	gene
+SKP1	6500	gene
+ORC3	23595	gene
+ORC5	5001	gene
+ORC4	5000	gene
+ORC2	4999	gene
+ORC1	4998	gene
+MCM7	4176	gene
+hsa-mir-25		intragenicMirna
+hsa-mir-93		intragenicMirna
+hsa-mir-106b		intragenicMirna
+MCM6	4175	gene
+MCM5	4174	gene
+MCM4	4173	gene
+MCM3	4172	gene
+CDK1	983	gene
+BUB1B	701	gene
+PCNA	5111	gene
+PLK1	5347	gene
+ATM	472	gene
+DBF4	10926	gene
+MAD2L2	10459	gene
+BUB1	699	gene
+BUB3	9184	gene
+CDC14B	8555	gene
+YWHAQ	10971	gene
+SFN	2810	gene
+CHEK1	1111	gene
+CDKN1A	1026	gene
+PRKDC	5591	gene
+MDM2	4193	gene
+CREBBP	1387	gene
+SKP2	6502	gene
+PKMYT1	9088	gene
+WEE2	494551	gene
+PTTG2...	10744	gene
+ESPL1	9700	gene
+SMC1B	27127	gene
+RB1	5925	gene
+GADD45G	10912	gene
+TP53	7157	gene
+CDKN1B	1027	gene
+CDKN2B	1030	gene
+TGFB1	7040	gene
+SMAD4	4089	gene
+SMAD2	4087	gene
+CDC7	8317	gene
+CDC20	991	gene
+CDC25B...	994	gene
+CDC45	8318	gene
+CDC6	990	gene
+CDC25A	993	gene
+hsa-mir-4443		intergenicMirna
+GSK3B	2932	gene
+CCNB3...	85417	gene
+CCNA2	890	gene
+CDK7	1022	gene
+CDK2	1017	gene
+CDK4	1019	gene
+hsa-mir-6759		intragenicMirna
+CCNH	902	gene
+CCNE1	898	gene
+CCND1	595	gene
+MAD1L1	8379	gene
+hsa-mir-4655		intragenicMirna
+TTK	7272	gene
+CDKN2C	1031	gene
+CDKN2D	1032	gene
+SMC3	9126	gene
+STAG1	10274	gene
+RAD21	5885	gene
+hsa-mir-3610		intragenicMirna
+RBL1	5933	gene
+E2F4	1874	gene
+MYC	4609	gene
+hsa-mir-1204		intergenicMirna
+ZBTB17	7709	gene
+ABL1	25	gene
+TFDP1	7027	gene
+E2F1	1869	gene
+HDAC1	3065	gene
+CREB1	1385	tf
+E2F4	1874	tf
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+ONECUT1	3175	tf
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+GATA2	2624	tf
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+YBX1	4904	tf
+USF1	7391	tf
+USF2	7392	tf
+HIF1A	3091	tf
+EGR1	1958	tf
+NR4A1	3164	tf
+AR	367	tf
+MEOX2	4223	tf
+NFIC	4782	tf
+NFKB1	4790	tf
+SP1	6667	tf
+SP3	6670	tf
+TP53	7157	tf
+TP73	7161	tf
+TP63	8626	tf
+hsa-mir-944		intragenicMirna
+KLF4	9314	tf
+ESR1	2099	tf
+FOXP3	50943	tf
+VDR	7421	tf
+YY1	7528	tf
+hsa-mir-6764		intragenicMirna
+PRDM14	63978	tf
+ZBTB33	10009	tf
+CREB3	10488	tf
+hsa-mir-6853		intragenicMirna
+CTCF	10664	tf
+NFAT5	10725	tf
+hsa-mir-1538		intergenicMirna
+ZNF274	10782	tf
+POU6F2	11281	tf
+ZNF653	115950	tf
+hsa-mir-7974		intragenicMirna
+ZNF417	147687	tf
+ZNF362	149076	tf
+DBP	1628	tf
+ZNF384	171017	tf
+E2F3	1871	tf
+EGR2	1959	tf
+ERG	2078	tf
+ETS2	2114	tf
+ETV1	2115	tf
+FLI1	2313	tf
+PATZ1	23598	tf
+SPDEF	25803	tf
+SETBP1	26040	tf
+hsa-mir-4319		intragenicMirna
+GATA3	2625	tf
+AFF4	27125	tf
+ZBTB44	29068	tf
+FOXA1	3169	tf
+HOXA13	3209	tf
+HOXD8	3234	tf
+IRF6	3664	tf
+JUNB	3726	tf
+hsa-mir-5684		intergenicMirna
+NEUROD2	4761	tf
+NFYA	4800	tf
+LEF1	51176	tf
+PLAGL1	5325	tf
+BCL11A	53335	tf
+hsa-mir-4432		intergenicMirna
+POU2F1	5451	tf
+ZFP64	55734	tf
+TRERF1	55809	tf
+PRDM10	56980	tf
+ZNF398	57541	tf
+DMRTA1	63951	tf
+ZSCAN18	65982	tf
+SP2	6668	tf
+STAT6	6778	tf
+TCF3	6929	tf
+TFCP2	7024	tf
+WHSC1	7468	tf
+ZIC2	7546	tf
+ZNF16	7564	tf
+ZNF134	7693	tf
+ZNF135	7694	tf
+ZNF184	7738	tf
+ZNF189	7743	tf
+ZSCAN9	7746	tf
+ZXDA	7789	tf
+ZXDC	79364	tf
+ZNF419	79744	tf
+ZNF671	79891	tf
+THAP7	80764	tf
+LHX2	9355	tf
+MAFB	9935	tf
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+GATA1	2623	tf
+POU5F1	5460	tf
+SOX2	6657	tf
+SRF	6722	tf
+E2F1	1869	tf
+NANOG	79923	tf
+TFAP2C	7022	tf
+MYCN	4613	tf
+E2F6	1876	tf
+GFI1	2672	tf
+NME2	4831	tf
+TCF7L2	6934	tf
+GFI1B	8328	tf
+REST	5978	tf
+RFX1	5989	tf
+FOPNL	123811	tf
+GABPB1	2553	tf
+UHRF1	29128	tf
+hsa-mir-4747		intragenicMirna
+JUN	3725	tf
+POU4F2	5458	tf
+RELA	5970	tf
+ESR2	2100	tf
+NF1	4763	tf
+hsa-mir-4733		intergenicMirna
+PPARG	5468	tf
+E4F1	1877	tf
+HNF1A	6927	tf

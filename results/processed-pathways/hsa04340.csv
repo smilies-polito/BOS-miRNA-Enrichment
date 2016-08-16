@@ -1,0 +1,47 @@
+NAME	ID	TYPE
+PTCH1	5727	gene
+BMP2	650	gene
+WNT16...	51384	gene
+ZIC2	7546	gene
+102800317...	102800317	gene
+GSK3B	2932	gene
+PRKACA	5566	gene
+FBXW11	23291	gene
+GLI1	2735	gene
+SUFU	51684	gene
+STK36	27148	gene
+RAB23	51715	gene
+LRP2	4036	gene
+SMO	6608	gene
+GAS1	2619	gene
+HHIP	64399	gene
+IHH	3549	gene
+hsa-mir-3131		intragenicMirna
+ESR1	2099	tf
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+GATA1	2623	tf
+GATA2	2624	tf
+GATA3	2625	tf
+FOXA1	3169	tf
+AR	367	tf
+FOXP3	50943	tf
+PRDM14	63978	tf
+E2F4	1874	tf
+POU5F1	5460	tf
+NANOG	79923	tf
+HES1	3280	tf
+YBX1	4904	tf
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+TFAP2C	7022	tf
+CREB1	1385	tf
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+SOX2	6657	tf
+E2F1	1869	tf
+REST	5978	tf

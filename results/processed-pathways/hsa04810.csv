@@ -1,0 +1,121 @@
+NAME	ID	TYPE
+F2	2147	gene
+TMSB4X	7114	gene
+ARPC5	10092	gene
+PFN3...	345456	gene
+WASF2	10163	gene
+WASF1	8936	gene
+BRK1	55845	gene
+APC2	10297	gene
+WAS	7454	gene
+ARHGEF4	50649	gene
+ABI2	10152	gene
+NCKAP1	10787	gene
+CYFIP1	23191	gene
+BAIAP2	10458	gene
+SSH1	54434	gene
+hsa-mir-619		intragenicMirna
+CFL1	1072	gene
+LIMK1	3984	gene
+GSN	2934	gene
+VCL	7414	gene
+PIKFYVE	200576	gene
+DIAPH1	1729	gene
+ACTN4	81	gene
+MSN	4478	gene
+PXN	5829	gene
+SLC9A1	6548	gene
+PPP1R12A	4659	gene
+MYL12B	103910	gene
+MYLK4	340156	gene
+GIT1	28964	gene
+ENAH	55740	gene
+DIAPH3	81624	gene
+ROCK1	6093	gene
+PAK4...	10298	gene
+ARHGEF7	8874	gene
+CDC42	998	gene
+RAC1	5879	gene
+RHOA	387	gene
+ARHGEF12	23365	gene
+IQGAP2...	10788	gene
+ARHGAP35	2909	gene
+VAV3...	10451	gene
+MAPK1	5594	gene
+MAP2K1	5604	gene
+ARAF	369	gene
+PIK3R5	23533	gene
+ARHGEF6	9459	gene
+DOCK1	1793	gene
+FGD1	2245	gene
+GNG12	55970	gene
+CRK	1398	gene
+BCAR1	9564	gene
+PTK2	5747	gene
+hsa-mir-151a		intragenicMirna
+CHRM1	1128	gene
+SRC	6714	gene
+ITGA11	22801	gene
+FN1	2335	gene
+RRAS2	22800	gene
+GNA13	10672	gene
+SOS1	6654	gene
+EGFR	1956	gene
+EGF	1950	gene
+INS	3630	gene
+F2R	2149	gene
+ACTB	60	gene
+MYH9	4627	gene
+hsa-mir-6819		intragenicMirna
+CREB1	1385	tf
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+AR	367	tf
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+FOXP3	50943	tf
+POU5F1	5460	tf
+GATA2	2624	tf
+YY1	7528	tf
+hsa-mir-6764		intragenicMirna
+ESR1	2099	tf
+E2F1	1869	tf
+GATA1	2623	tf
+TFAP2C	7022	tf
+YBX1	4904	tf
+ONECUT1	3175	tf
+PRDM14	63978	tf
+SOX2	6657	tf
+SRF	6722	tf
+NANOG	79923	tf
+NR1I2	8856	tf
+GATA3	2625	tf
+REST	5978	tf
+MYCN	4613	tf
+NFKB1	4790	tf
+SP1	6667	tf
+THRA	7067	tf
+VDR	7421	tf
+TFAP2A	7020	tf
+PAX8	7849	tf
+E2F4	1874	tf
+FOXA1	3169	tf
+EGR1	1958	tf
+TBP	6908	tf
+DDIT3	1649	tf
+hsa-mir-616		intragenicMirna
+TP73	7161	tf
+HNF1A	6927	tf
+KLF11	8462	tf
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+HIF1A	3091	tf
+HSF1	3297	tf
+NFYA	4800	tf
+NFYB	4801	tf
+AHR	196	tf
+TP53	7157	tf

@@ -1,0 +1,10 @@
+{"total_rows":5943821,"offset":2632938,"rows":[
+{"id":"hsa-mir-376a-1:130399","key":["hsa-mir-376a-1","mirtarbase"],"value":"hsa-miR-376a-3p"},
+{"id":"hsa-mir-376a-1:130399","key":["hsa-mir-376a-1","mirtarbase"],"value":"hsa-miR-376a-5p"},
+{"id":"hsa-mir-376a-1:130557","key":["hsa-mir-376a-1","mirtarbase"],"value":"hsa-miR-376a-5p"},
+{"id":"hsa-mir-376a-1:399979","key":["hsa-mir-376a-1","mirtarbase"],"value":"hsa-miR-376a-5p"},
+{"id":"hsa-mir-376a-1:5631","key":["hsa-mir-376a-1","mirtarbase"],"value":"hsa-miR-376a-5p"},
+{"id":"hsa-mir-376a-1:6566","key":["hsa-mir-376a-1","mirtarbase"],"value":"hsa-miR-376a-5p"},
+{"id":"hsa-mir-376a-1:7272","key":["hsa-mir-376a-1","mirtarbase"],"value":"hsa-miR-376a-5p"},
+{"id":"hsa-mir-376a-1:9295","key":["hsa-mir-376a-1","mirtarbase"],"value":"hsa-miR-376a-5p"}
+]}

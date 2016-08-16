@@ -1,0 +1,80 @@
+NAME	ID	TYPE
+IFNG	3458	gene
+PSMD3	5709	gene
+PSMD12	5718	gene
+PSMD11	5717	gene
+PSMD6	9861	gene
+PSMD7	5713	gene
+PSMD13	5719	gene
+PSMD14	10213	gene
+PSMD8	5714	gene
+SHFM1	7979	gene
+PSMD4	5710	gene
+PSMD2	5708	gene
+PSMD1	5707	gene
+PSMC2	5701	gene
+PSMC1	5700	gene
+PSMC4	5704	gene
+PSMC6	5706	gene
+PSMC3	5702	gene
+PSMC5	5705	gene
+PSME1	5720	gene
+PSME2	5721	gene
+hsa-mir-7703		intragenicMirna
+PSME3	10197	gene
+PSME4	23198	gene
+PSMA6	5687	gene
+PSMA2	5683	gene
+PSMA4	5685	gene
+PSMA8	143471	gene
+PSMA5	5686	gene
+PSMA1	5682	gene
+PSMA3	5684	gene
+PSMB6	5694	gene
+PSMB7	5695	gene
+PSMB3	5691	gene
+PSMB2	5690	gene
+PSMB5	5693	gene
+PSMB1	5689	gene
+PSMB4	5692	gene
+PSMB9	5698	gene
+PSMB10	5699	gene
+PSMB8	5696	gene
+PSMB11	122706	gene
+PSMF1	9491	gene
+POMP	51371	gene
+CREB1	1385	tf
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+YBX1	4904	tf
+FOXP3	50943	tf
+PRDM14	63978	tf
+NANOG	79923	tf
+E2F4	1874	tf
+AR	367	tf
+ATF2	1386	tf
+hsa-mir-933		intragenicMirna
+GATA3	2625	tf
+JUN	3725	tf
+NFKB1	4790	tf
+REL	5966	tf
+RELA	5970	tf
+GATA2	2624	tf
+HIF1A	3091	tf
+ONECUT1	3175	tf
+YY1	7528	tf
+hsa-mir-6764		intragenicMirna
+GATA1	2623	tf
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+SOX2	6657	tf
+HSF1	3297	tf
+REST	5978	tf
+ESR1	2099	tf
+TP73	7161	tf

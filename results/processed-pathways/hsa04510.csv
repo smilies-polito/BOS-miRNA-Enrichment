@@ -1,0 +1,124 @@
+NAME	ID	TYPE
+ITGB1	3688	gene
+ITGA11	22801	gene
+FLNA	2316	gene
+CDC42	998	gene
+MYLK4	340156	gene
+MYL12B	103910	gene
+DIAPH1	1729	gene
+PPP1R12A	4659	gene
+ROCK1	6093	gene
+AKT3	10000	gene
+PDPK1	5170	gene
+PARVB	29780	gene
+ILK	3611	gene
+VCL	7414	gene
+VASP	7408	gene
+PTEN	5728	gene
+PIK3R5	23533	gene
+TLN1	7094	gene
+hsa-mir-6852		intragenicMirna
+ZYX	7791	gene
+hsa-mir-6892		intragenicMirna
+PIP5K1C	23396	gene
+ACTN4	81	gene
+PTK2	5747	gene
+hsa-mir-151a		intragenicMirna
+CAPN2	824	gene
+PXN	5829	gene
+ARHGAP35	2909	gene
+PRKCA	5578	gene
+hsa-mir-634		intragenicMirna
+SRC	6714	gene
+FYN	2534	gene
+RHOA	387	gene
+RASGRF1	5923	gene
+LAMC3	10319	gene
+CAV1	857	gene
+BIRC2	329	gene
+BAD	572	gene
+BCL2	596	gene
+ELK1	2002	gene
+MAPK1	5594	gene
+CCND1	595	gene
+MAP2K1	5604	gene
+BRAF	673	gene
+RAF1	5894	gene
+HRAS	3265	gene
+SOS1	6654	gene
+GRB2	2885	gene
+hsa-mir-3678		intergenicMirna
+EGFR	1956	gene
+EGF	1950	gene
+SHC2	25759	gene
+BCAR1	9564	gene
+CRK	1398	gene
+RAPGEF1	2889	gene
+RAP1A	5906	gene
+DOCK1	1793	gene
+MAPK8	5599	gene
+JUN	3725	gene
+PAK4...	10298	gene
+RAC1	5879	gene
+VAV3...	10451	gene
+CTNNB1	1499	gene
+GSK3B	2932	gene
+ACTB	60	gene
+AR	367	tf
+YBX1	4904	tf
+FOXP3	50943	tf
+ESR1	2099	tf
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+GATA3	2625	tf
+PRDM14	63978	tf
+CREB1	1385	tf
+E2F4	1874	tf
+GATA2	2624	tf
+STAT3	6774	tf
+REST	5978	tf
+MYCN	4613	tf
+NFKB1	4790	tf
+SP1	6667	tf
+THRA	7067	tf
+VDR	7421	tf
+EGR1	1958	tf
+HIF1A	3091	tf
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+GATA1	2623	tf
+POU5F1	5460	tf
+SOX2	6657	tf
+ONECUT1	3175	tf
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+FOXA1	3169	tf
+TFAP2C	7022	tf
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+E2F1	1869	tf
+TP53	7157	tf
+HSF1	3297	tf
+NANOG	79923	tf
+KDM2B	84678	tf
+hsa-mir-7107		intragenicMirna
+NR1I2	8856	tf
+RBPJ	3516	tf
+TP73	7161	tf
+YY1	7528	tf
+hsa-mir-6764		intragenicMirna
+JUN	3725	tf
+POU4F2	5458	tf
+RELA	5970	tf
+KLF4	9314	tf
+ATF1	466	tf
+PGR	5241	tf
+PPARG	5468	tf
+TFAP2A	7020	tf
+NFYA	4800	tf
+NFYB	4801	tf
+SRF	6722	tf
+AHR	196	tf
+ESR2	2100	tf

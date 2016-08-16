@@ -1,0 +1,40 @@
+Id;Name;TFs;Genes;Total
+hsa04917;Prolactin signaling pathway - Homo sapiens (human);61;38;95
+hsa04610;Complement and coagulation cascades - Homo sapiens (human);49;58;107
+hsa04145;Phagosome - Homo sapiens (human);38;58;96
+hsa04380;Osteoclast differentiation;48;66;110
+hsa04666;Fc gamma R-mediated phagocytosis - Homo sapiens (human);30;45;75
+hsa04340;Hedgehog signaling pathway - Homo sapiens (human);22;16;38
+hsa03050;Proteasome - Homo sapiens (human);27;43;70
+hsa04621;NOD-like receptor signaling pathway - Homo sapiens (human);44;45;88
+hsa04152;AMPK signaling pathway - Homo sapiens (human);49;58;106
+hsa04066;HIF-1 signaling pathway - Homo sapiens (human);74;60;131
+hsa05100;Bacterial invasion of epithelial cells;35;36;71
+hsa04650;Natural killer cell mediated cytotoxicity - Homo sapiens (human);44;69;112
+hsa04662;B cell receptor signaling pathway;40;43;82
+hsa04060;Cytokine-cytokine receptor interaction - Homo sapiens (human);87;243;330
+hsa04120;Ubiquitin mediated proteolysis;32;101;133
+hsa04330;Notch signaling pathway;24;22;46
+hsa04151;PI3K-Akt signaling pathway - Homo sapiens (human);74;81;149
+hsa04520;Adherens junction;37;50;86
+hsa04660;T cell receptor signaling pathway - Homo sapiens (human);57;63;118
+hsa04110;Cell cycle - Homo sapiens (human);114;76;186
+hsa04068;FoxO signaling pathway - Homo sapiens (human);63;72;134
+hsa04530;Tight junction;31;49;80
+hsa04210;Apoptosis - Homo sapiens (human);52;49;99
+hsa04640;Hematopoietic cell lineage - Homo sapiens (human);47;66;113
+hsa04140;Regulation of autophagy - Homo sapiens (human);24;18;42
+hsa04510;Focal adhesion - Homo sapiens (human);50;60;109
+hsa04150;mTOR signaling pathway - Homo sapiens (human);44;35;78
+hsa04144;Endocytosis - Homo sapiens (human);37;105;142
+hsa04014;Ras signaling pathway - Homo sapiens (human);37;66;101
+hsa04350;TGF-beta signaling pathway - Homo sapiens (human);45;46;88
+hsa04062;Chemokine signaling pathway - Homo sapiens (human);32;48;79
+hsa04630;Jak-STAT signaling pathway - Homo sapiens (human);50;31;80
+hsa04620;Toll-like receptor signaling pathway - Homo sapiens (human);51;66;114
+hsa04310;Wnt signaling pathway - Homo sapiens (human);48;65;109
+hsa04010;MAPK signaling pathway - Homo sapiens (human);67;118;177
+hsa04810;Regulation of actin cytoskeleton - Homo sapiens (human);44;65;109
+hsa04612;Antigen processing and presentation - Homo sapiens (human);35;24;58
+hsa04064;NF-kappa B signaling pathway - Homo sapiens (human);60;82;140
+hsa04722;Neurotrophin signaling pathway - Homo sapiens (human);49;73;118

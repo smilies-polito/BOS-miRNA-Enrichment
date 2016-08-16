@@ -1,0 +1,12 @@
+{"total_rows":5943821,"offset":607249,"rows":[
+{"id":"hsa-mir-130a:1435","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:3202","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:3206","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:351","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:4223","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:5468","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:6310","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:6863","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:9314","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"},
+{"id":"hsa-mir-130a:9935","key":["hsa-mir-130a","mirtarbase"],"value":"hsa-miR-130a-3p"}
+]}

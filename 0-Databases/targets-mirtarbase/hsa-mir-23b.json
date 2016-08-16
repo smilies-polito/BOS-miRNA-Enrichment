@@ -1,0 +1,7 @@
+{"total_rows":5943821,"offset":1402660,"rows":[
+{"id":"hsa-mir-23b:1869","key":["hsa-mir-23b","mirtarbase"],"value":"hsa-miR-23b-3p"},
+{"id":"hsa-mir-23b:4233","key":["hsa-mir-23b","mirtarbase"],"value":"hsa-miR-23b-3p"},
+{"id":"hsa-mir-23b:5328","key":["hsa-mir-23b","mirtarbase"],"value":"hsa-miR-23b-3p"},
+{"id":"hsa-mir-23b:5625","key":["hsa-mir-23b","mirtarbase"],"value":"hsa-miR-23b-5p"},
+{"id":"hsa-mir-23b:5925","key":["hsa-mir-23b","mirtarbase"],"value":"hsa-miR-23b-3p"}
+]}

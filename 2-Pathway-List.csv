@@ -1,0 +1,40 @@
+Id;Name;Class;Weight
+hsa04917;Prolactin signaling pathway - Homo sapiens (human);B;1
+hsa04610;Complement and coagulation cascades - Homo sapiens (human);C;0.5
+hsa04145;Phagosome - Homo sapiens (human);A;2
+hsa04380;Osteoclast differentiation;C;0.5
+hsa04666;Fc gamma R-mediated phagocytosis - Homo sapiens (human);B;1
+hsa04340;Hedgehog signaling pathway - Homo sapiens (human);A;2
+hsa03050;Proteasome - Homo sapiens (human);C;0.5
+hsa04621;NOD-like receptor signaling pathway - Homo sapiens (human);A;2
+hsa04152;AMPK signaling pathway - Homo sapiens (human);A;2
+hsa04066;HIF-1 signaling pathway - Homo sapiens (human);A;2
+hsa05100;Bacterial invasion of epithelial cells;C;0.5
+hsa04650;Natural killer cell mediated cytotoxicity - Homo sapiens (human);A;2
+hsa04662;B cell receptor signaling pathway;A;2
+hsa04060;Cytokine-cytokine receptor interaction - Homo sapiens (human);A;2
+hsa04120;Ubiquitin mediated proteolysis;A;2
+hsa04330;Notch signaling pathway;A;2
+hsa04151;PI3K-Akt signaling pathway - Homo sapiens (human);A;2
+hsa04520;Adherens junction;C;0.5
+hsa04660;T cell receptor signaling pathway - Homo sapiens (human);A;2
+hsa04110;Cell cycle - Homo sapiens (human);A;2
+hsa04068;FoxO signaling pathway - Homo sapiens (human);A;2
+hsa04530;Tight junction;C;0.5
+hsa04210;Apoptosis - Homo sapiens (human);B;1
+hsa04640;Hematopoietic cell lineage - Homo sapiens (human);A;2
+hsa04140;Regulation of autophagy - Homo sapiens (human);A;2
+hsa04510;Focal adhesion - Homo sapiens (human);C;0.5
+hsa04150;mTOR signaling pathway - Homo sapiens (human);A;2
+hsa04144;Endocytosis - Homo sapiens (human);A;2
+hsa04014;Ras signaling pathway - Homo sapiens (human);A;2
+hsa04350;TGF-beta signaling pathway - Homo sapiens (human);A;2
+hsa04062;Chemokine signaling pathway - Homo sapiens (human);A;2
+hsa04630;Jak-STAT signaling pathway - Homo sapiens (human);A;2
+hsa04620;Toll-like receptor signaling pathway - Homo sapiens (human);A;2
+hsa04310;Wnt signaling pathway - Homo sapiens (human);A;2
+hsa04010;MAPK signaling pathway - Homo sapiens (human);A;2
+hsa04810;Regulation of actin cytoskeleton - Homo sapiens (human);B;1
+hsa04612;Antigen processing and presentation - Homo sapiens (human);A;2
+hsa04064;NF-kappa B signaling pathway - Homo sapiens (human);A;2
+hsa04722;Neurotrophin signaling pathway - Homo sapiens (human);B;1

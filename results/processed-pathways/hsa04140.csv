@@ -1,0 +1,52 @@
+NAME	ID	TYPE
+ATG7	10533	gene
+ATG3	64422	gene
+ATG4A	115201	gene
+GABARAP	11337	gene
+ATG16L1	55054	gene
+ATG5	9474	gene
+ATG10	83734	gene
+ATG12	9140	gene
+ATG14	22863	gene
+PIK3R4	30849	gene
+ATG13	9776	gene
+ULK3...	25989	gene
+IFNG	3458	gene
+IFNA1	3439	gene
+BECN1	8678	gene
+hsa-mir-6781		intragenicMirna
+PIK3C3	5289	gene
+INS	3630	gene
+PRKAA1	5562	gene
+ETS1	2113	tf
+hsa-mir-6090		intragenicMirna
+GATA2	2624	tf
+AR	367	tf
+TFAP2C	7022	tf
+ESR1	2099	tf
+YBX1	4904	tf
+GATA3	2625	tf
+GATA1	2623	tf
+FOXP3	50943	tf
+YY1	7528	tf
+hsa-mir-6764		intragenicMirna
+E2F4	1874	tf
+CREB1	1385	tf
+ATF2	1386	tf
+hsa-mir-933		intragenicMirna
+JUN	3725	tf
+NFKB1	4790	tf
+REL	5966	tf
+RELA	5970	tf
+HNF1A	6927	tf
+KLF11	8462	tf
+MYC	4609	tf
+hsa-mir-1204		intergenicMirna
+HNF4A	3172	tf
+hsa-mir-3646		intragenicMirna
+NRF1	4899	tf
+hsa-mir-182		intergenicMirna
+hsa-mir-96		intergenicMirna
+hsa-mir-183		intergenicMirna
+FOXA1	3169	tf
+NANOG	79923	tf

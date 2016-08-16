@@ -1,0 +1,15 @@
+{"total_rows":5943821,"offset":1122541,"rows":[
+{"id":"hsa-mir-199a-2:10001","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:1906","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:2114","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:2146","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:3551","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:3726","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:3976","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:4204","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:4296","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:5601","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-3p"},
+{"id":"hsa-mir-199a-2:57018","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:780","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-5p"},
+{"id":"hsa-mir-199a-2:960","key":["hsa-mir-199a-2","mirtarbase"],"value":"hsa-miR-199a-3p"}
+]}
